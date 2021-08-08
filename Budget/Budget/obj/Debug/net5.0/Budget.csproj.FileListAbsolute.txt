@@ -1,0 +1,16 @@
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\Budget.exe
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\Budget.deps.json
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\Budget.runtimeconfig.json
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\Budget.runtimeconfig.dev.json
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\Budget.dll
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\ref\Budget.dll
+E:\Code\budgeting\Budget\Budget\bin\Debug\net5.0\Budget.pdb
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.csproj.AssemblyReference.cache
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.AssemblyInfoInputs.cache
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.AssemblyInfo.cs
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.csproj.CoreCompileInputs.cache
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.dll
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\ref\Budget.dll
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.pdb
+E:\Code\budgeting\Budget\Budget\obj\Debug\net5.0\Budget.genruntimeconfig.cache
