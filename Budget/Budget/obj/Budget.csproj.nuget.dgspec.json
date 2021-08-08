@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\budget\\Budget\\Budget\\Budget.csproj": {}
+    "E:\\Code\\budgeting\\Budget\\Budget\\Budget.csproj": {}
   },
   "projects": {
-    "E:\\Code\\budget\\Budget\\Budget\\Budget.csproj": {
+    "E:\\Code\\budgeting\\Budget\\Budget\\Budget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\budget\\Budget\\Budget\\Budget.csproj",
+        "projectUniqueName": "E:\\Code\\budgeting\\Budget\\Budget\\Budget.csproj",
         "projectName": "Budget",
-        "projectPath": "E:\\Code\\budget\\Budget\\Budget\\Budget.csproj",
+        "projectPath": "E:\\Code\\budgeting\\Budget\\Budget\\Budget.csproj",
         "packagesPath": "C:\\Users\\robpi\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\budget\\Budget\\Budget\\obj\\",
+        "outputPath": "E:\\Code\\budgeting\\Budget\\Budget\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
