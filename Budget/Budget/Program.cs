@@ -6,10 +6,12 @@ namespace Budget
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("####### You are now using Budgeting ######");
-            Console.WriteLine("******* Press any key to continue *******");
+            Console.WriteLine("###################################################\n");
+            Console.WriteLine("----------You are now using Budgeting--------------\n");
+            Console.WriteLine("###################################################\n");
+            Console.WriteLine("**********Press any key to continue****************\n");
             Console.ReadLine();
-            Console.WriteLine("Please enter in your total weekly expenses ");
+            Console.Write("Please enter in your total weekly expenses: ");
             int expense = Int32.Parse(Console.ReadLine());
             
             //Console.WriteLine("Hello World!");
