@@ -30,65 +30,65 @@ namespace Budget
 
             if (expense <= 250 && age == "24")
             {
-                Console.WriteLine("For a 24 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 24 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 250 && age == "24")
             {
-                Console.WriteLine("For a 24 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 24 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             if (expense <= 300 && age == "25")
             {
-                Console.WriteLine("For a 25 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 25 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 300 && age == "25")
             {
-                Console.WriteLine("For a 25 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 25 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             if (expense <= 350 && age == "26")
             {
-                Console.WriteLine("For a 26 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 26 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 350 && age == "26")
             {
-                Console.WriteLine("For a 26 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 26 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             if (expense <= 400 && age == "27")
             {
-                Console.WriteLine("For a 27 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 27 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 400 && age == "27")
             {
-                Console.WriteLine("For a 27 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 27 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             if (expense <= 450 && age == "28")
             {
-                Console.WriteLine("For a 28 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 28 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 450 && age == "28")
             {
-                Console.WriteLine("For a 28 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 28 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             if (expense <= 500 && age == "29")
             {
-                Console.WriteLine("For a 29 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 29 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 500 && age == "29")
             {
-                Console.WriteLine("For a 29 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 29 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             if (expense <= 550 && age == "30")
             {
-                Console.WriteLine("For a 30 year old, you are within your budget. Good job! Press any key to continue");
+                Console.WriteLine("For a 30 year old, you are within your budget. Good job! Press any key to continue.");
             }
             else if (expense > 550 && age == "30")
             {
-                Console.WriteLine("For a 30 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue");
+                Console.WriteLine("For a 30 year old, you are spending too much. Please reflect on what you have been spending your money on recently. Press any key to continue.");
             }
 
             Console.ReadLine();
@@ -97,8 +97,9 @@ namespace Budget
 
             //Console.WriteLine("Hello World!");
 
-            Console.WriteLine("If you enjoyed using Budgeting please encourage your friends and family to use this program. \n\n" +
-                "Press any key to exit the program");
+            Console.WriteLine("If you enjoyed using Budgeting please encourage your friends and family to use this program \n\n" +
+                "If you would like to provide some feedback, please email robpietkiewicz14@gmail.com \n\n" +
+                "Press any key to exit");
         }
     }
 }
