@@ -8,6 +8,7 @@ namespace Budget
         {
             try
             {
+
                 Console.WriteLine("###################################################\n");
                 Console.WriteLine("----------You are now using Budgeting--------------\n");
                 Console.WriteLine("###################################################\n");
@@ -19,10 +20,25 @@ namespace Budget
 
                 Console.Write("\n");
 
-                Console.Write("Please enter in your age in the range of 25 - 30 years old: ");
+                Console.Write("Please enter in your age in the range of 24 - 30 years old: ");
                 string age = Console.ReadLine();
-
+                //int yourAge;
                 Console.Write("\n");
+
+                if (age != "24")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                if (age != "25")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                if (age != "26")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                if (age != "27")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                if (age != "28")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                if (age != "29")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                if (age != "30")
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
 
                 Console.WriteLine("//////Calculation process complete. Press any key to see your result//////");
 
@@ -96,7 +112,10 @@ namespace Budget
             } catch (FormatException e)
             {
                 Console.WriteLine(e.Message);
-            }
+            } /*catch (ArgumentOutOfRangeException e)
+            {
+                Console.WriteLine(e.Message);
+            }*/
             
 
             Console.ReadLine();
