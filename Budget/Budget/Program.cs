@@ -25,7 +25,7 @@ namespace Budget
                 //int yourAge;
                 Console.Write("\n");
 
-                if (age != "24")
+                /*if (age != "24")
                     throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
                 if (age != "25")
                     throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
@@ -38,7 +38,7 @@ namespace Budget
                 if (age != "29")
                     throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
                 if (age != "30")
-                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");
+                    throw new ArgumentOutOfRangeException("Please enter in a number that is between 24 and 30.");*/
 
                 Console.WriteLine("//////Calculation process complete. Press any key to see your result//////");
 

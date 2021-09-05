@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget", "Budget\Budget.csproj", "{39E5C4F5-AFC1-4BE3-A3A2-A09CF61071AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Budget", "Budget\Budget.csproj", "{39E5C4F5-AFC1-4BE3-A3A2-A09CF61071AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTests", "BudgetTests\BudgetTests.csproj", "{C9FD7741-9BB9-40A3-8053-99FE48372C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{39E5C4F5-AFC1-4BE3-A3A2-A09CF61071AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39E5C4F5-AFC1-4BE3-A3A2-A09CF61071AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39E5C4F5-AFC1-4BE3-A3A2-A09CF61071AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FD7741-9BB9-40A3-8053-99FE48372C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FD7741-9BB9-40A3-8053-99FE48372C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FD7741-9BB9-40A3-8053-99FE48372C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FD7741-9BB9-40A3-8053-99FE48372C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
