@@ -3,7 +3,7 @@ using Xunit;
 
 namespace BudgetTests
 {
-    public class UnitTest1
+    public class UserInputTests
     {
         [Fact]
         public void User_EntersNoNumber_ThrowExceptionMessage()
