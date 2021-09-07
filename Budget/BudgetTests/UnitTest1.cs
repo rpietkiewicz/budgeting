@@ -6,8 +6,13 @@ namespace BudgetTests
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void User_EntersNoNumber_ThrowExceptionMessage()
         {
+            //Arrange
+
+            //Act
+
+            //Assert
 
         }
     }
